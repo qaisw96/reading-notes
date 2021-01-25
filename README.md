@@ -1,6 +1,6 @@
 # reading-notes
 
-**growth mind** 
+**"growth mind"** 
 
 _i consider it the space or enviromenment i can insert in it anything i want and i will grow up and develop_ 
 
