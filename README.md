@@ -17,9 +17,7 @@ _i consider it the space or enviromenment i can insert in it anything i want and
 
 
 | reading | link |
+-------------------
+| Read1 | [read1](https://github.com/qaisw96/reading-notes/blob/main/read1) |
+| Read1  | [read2](https://github.com/qaisw96/reading-notes/blob/main/read%202) |
 
-| --- | --- |
-
-| read1 | (https://github.com/qaisw96/reading-notes/blob/main/read1) |
-
-| read2 | https://github.com/qaisw96/reading-notes/blob/main/read%202 |
