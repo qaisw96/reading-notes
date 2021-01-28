@@ -1,23 +1,23 @@
 # THE COMPARISON OPERATORS IN "JS" :
 
-/ Equel to ... ***==***
+ ## / Equel to ... ==
 
-// Not equel to ... !=
+## // Not equel to ... !=
 
-/// Strict equel to ... === ( check that both "data type" & "data value")
+## /// Strict equel to ... === ( check that both "data type" & "data value")
 
-//// Strict not equel to ... !==
+## //// Strict not equel to ... !==
 
-/ Greater than ... > 
+## //// Greater than ... > 
 
-// Less than ... <
+## /// Less than ... <
 
-/// Greater than or equel to ... >=
+## // Greater than or equel to ... >=
 
-//// Less than or equel to ... <=
+## / Less than or equel to ... <=
 
 # LOGICAL OPERATORS : 
 
-/ AND ... &&
-// OR ... ||
-/// NOT ... !
+## / AND ... &&
+## // OR ... ||
+## /// NOT ... !
