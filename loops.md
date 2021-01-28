@@ -1,6 +1,6 @@
 # THE COMPARISON OPERATORS IN "JS" :
 
-/ Equel to ... ==
+/ Equel to ... ***==***
 
 // Not equel to ... !=
 
