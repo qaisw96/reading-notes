@@ -1,4 +1,4 @@
-#THE COMPARISON OPERATORS IN "JS" :
+# THE COMPARISON OPERATORS IN "JS" :
 
 / Equel to ... ==
 
