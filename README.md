@@ -1,6 +1,5 @@
-# reading-notes
 
-## Growth Mind
+# Growth Mind
 
 *I consider it the space or enviromenment i can insert in it anything i want and i will grow up and develop*
 
