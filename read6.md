@@ -1,11 +1,14 @@
 # CSS 
 
-*Works by associating rules with HTML elements, These rules govern
-how the content of specified elements should be displayed*
-
-## A CSS rule contains two parts:
-> A selector : indicate which element the rule applies to. 
-> A declaration : indicate how the elements referred to in the selector should be styled.
+```
+Works by associating rules with HTML elements, These rules govern
+how the content of specified elements should be displayed
+```
+ 
+ 
+> ## A CSS rule contains two parts:
+>> + A selector : indicate which element the rule applies to. 
+>> + A declaration : indicate how the elements referred to in the selector should be styled.
 
 ![CSS rule](http://blog.teamtreehouse.com/wp-content/uploads/2012/10/css-rule.jpg)
 
@@ -20,10 +23,18 @@ ID Selector | #introduction {} | Targets the element whose id attribute has a va
 
  
 # CSS Color 
-*Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker*
+```
+Every color on a computer screen is created by mixing amounts of red, green, and blue.
+To find the color you want, you can use a color picker
+```
+
 
 Ways to specify color | Example 
 ----------------------|-----------
 Color Names | lightgreen
 Hex Codes | #66cdaa
 RGB Values | rgb(102,205,170) 
+
+![CSS color](http://colrd.com/misc/labs/Color-Picker/Mini-Sphere/media/circle.png)
+
+
