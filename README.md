@@ -1,21 +1,21 @@
 # reading-notes
 
-## growth mind
+## Growth Mind
 
-i consider it the space or enviromenment i can insert in it anything i want and i will grow up and develop_ 
+*I consider it the space or enviromenment i can insert in it anything i want and i will grow up and develop*
 
-*reminders* : 
+*I always remind myself that* : 
 
-+ ***everything is possible, just i need to put effort & time***	
++ ***Everything is possible, just i need to put effort & time***	
 
-+ ***everything i focus on it happens***	
++ ***Everything i focus on it happens***	
 
-+ ***the space of oppurtinities i can get with a growth mindset***	
-
-
++ ***The space of oppurtinities i can get with a growth mindset***	
 
 
-reading | link 
+
+
+Reading | Link 
 ------- | ---------
 Read1 | [click-here](https://qaisw96.github.io/reading-notes/read1) 
 Read2 | [click-here](https://qaisw96.github.io/reading-notes/read2) 
