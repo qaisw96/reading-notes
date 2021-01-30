@@ -15,11 +15,10 @@ _i consider it the space or enviromenment i can insert in it anything i want and
 
 
 
-
- reading | link 
--------------------
- Read1 | [click-here] (https://qaisw96.github.io/reading-notes/read1.md) 
- Read2 | [click-here] (https://qaisw96.github.io/reading-notes/read2.md) 
- Read3 | [click-here] (https://qaisw96.github.io/reading-notes/read3.md) 
- Read4 | [click-here] (https://qaisw96.github.io/reading-notes/read4.md) 
- Read5 | [click-here] (https://qaisw96.github.io/reading-notes/read5.md) 
+reading | link 
+------- | ---------
+Read1 | [click-here] (https://qaisw96.github.io/reading-notes/read1.md) 
+Read2 | [click-here] (https://qaisw96.github.io/reading-notes/read2.md) 
+Read3 | [click-here] (https://qaisw96.github.io/reading-notes/read3.md) 
+Read4 | [click-here] (https://qaisw96.github.io/reading-notes/read4.md) 
+Read5 | [click-here] (https://qaisw96.github.io/reading-notes/read5.md) 
