@@ -35,6 +35,6 @@ Color Names | lightgreen
 Hex Codes | #66cdaa
 RGB Values | rgb(102,205,170) 
 
-![CSS color](http://colrd.com/misc/labs/Color-Picker/Mini-Sphere/media/circle.png)
+![CSS color](https://th.bing.com/th/id/Rc583fdcadfbe11009ab4bccd6d81b35f?rik=ZpQ8PoHPQ%2fRqpw&riu=http%3a%2f%2ft15.deviantart.net%2fzzGP1ctqdyFL8GvZypMBYYQRF2s%3d%2f300x200%2ffilters%3afixed_height(100%2c100)%3aorigin()%2fpre08%2f7aac%2fth%2fpre%2ff%2f2013%2f183%2f4%2fd%2fcolor_palette_6549846_by_ka_kind-d6bmmrn.png&ehk=4XWpFlMMfyPqDDAIM82%2fFKw9LKMEpFJctPoUNIEDoX8%3d&risl=&pid=ImgRaw)
 
 
