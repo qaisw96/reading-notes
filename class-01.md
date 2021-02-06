@@ -56,7 +56,7 @@ you can give Information About Your Page by **meta** tag
 ![CSS color](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_high_level.jpg)
 
 
-# website page Process : 
+## website page Process : 
 
 1. identify  the target audience & Thier Behaviour, maybe answer these can help :
     - Who is the Site For?
@@ -72,7 +72,7 @@ you can give Information About Your Page by **meta** tag
     - *Layout* control where the different elements are positioned on the screen
     
     
-# A wireframe
+## A wireframe
 ```
 is a simple sketch of the key
 information that needs to go on each page of a
@@ -87,5 +87,23 @@ and how much space it might require.
 ## other concepts :
 + Visual hierarchy : a way to get across your key message and helps users find what they are looking for
 + Site navigation : bar to help visitors to understand what your site is about and how it is organized
++ A script is a series of instructions that a computer can follow to achieve a goal
 
+
+
+## JAVA SCRIPT 
+
+Why **JAVA SCRIPT** ??
+```
+To make our wibsites more interactive by :
+
++ Access the content of the page
++ Modify the content of the page
++ Program rules or instructions the browser can follow
++ React to events triggered by the user or browser 
+
+To create a script we should :
+1. state our goal 
+2. write down the indiduels steps to achieve that goal 
+3. code the steps by programming language 
 
