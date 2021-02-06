@@ -84,5 +84,8 @@ and how much space it might require.
 ![CSS color](https://www.market8.net/hs-fs/hub/23553/file-637542208-jpg/images/website_wireframes-wireframe2.jpg?t=1519917980967)
 
 
+## other concepts :
++ Visual hierarchy : a way to get across your key message and helps users find what they are looking for
++ Site navigation : bar to help visitors to understand what your site is about and how it is organized
 
 
