@@ -1,7 +1,9 @@
 # HTML & CSS 
 
 ## Why HTML ?
+```
 To make web pages on the internet viewable.
+```
 
 ![HTML TEST](https://www.etutorialspoint.com/images/html_elements.jpg)
 
@@ -9,10 +11,11 @@ To make web pages on the internet viewable.
 ![HTML element](http://schoolsofweb.com/wp-content/uploads/anatomy-of-an-html-element.jpg)
 
 ## What *DOCTYPE HTML* ??
- - declaration to tell a browser which version of HTML the page is using 
- // each web page should begin with a DOCTYPE
+```
+ declaration to tell a browser which version of HTML the page is using 
+ each web page should begin with a DOCTYPE
  ![HTML element](http://3.bp.blogspot.com/-AthYZg1Ha8A/T6LFF6156LI/AAAAAAAAAX0/ZhyxOP4Tgw0/s1600/HTML5-Doctype.gif)
-
+```
  
  
 ## Id & Class Attribute 
@@ -23,6 +26,7 @@ To make web pages on the internet viewable.
  Both use as CSS style indicate
  ```
  ## What type of HTML elements ? 
+ 
  element | what is | example 
  -----| --------| -------
  Block elemets |  elements appear to start on a new line in the browser window | h1, p, ul, and li
@@ -38,8 +42,9 @@ its surrounding text
  ```
 
 ## How can give Information About Your Pages ??
+```
 you can give Information About Your Page by **meta** tag 
-
+```
  ![meta tag](https://tnphost.com/support/wp-content/uploads/2016/09/meta-tag-explained.gif)
 
 ## HTML5 LAYOUT
@@ -51,7 +56,7 @@ you can give Information About Your Page by **meta** tag
 ![CSS color](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_high_level.jpg)
 
 
-# Stages of building a small website page 
+# website page Process : 
 
 1. identify  the target audience & Thier Behaviour, maybe answer these can help :
     - Who is the Site For?
@@ -59,11 +64,24 @@ you can give Information About Your Page by **meta** tag
     - What Your Visitors are Trying to Achieve
     - What Information Your Visitors Need
     - How Often People Will Visit Your Site
+    
 2. Write the content that you want to appear by using **HTML** Tags (add heading, paragraph, image, audio, and others )
+
 3. Styling & Layout yout web page by using **CSS**, that includes :
     - *Presentation* ( color, font, background-color, background-images, and others )
     - *Layout* control where the different elements are positioned on the screen
+    
+    
+# A wireframe
+```
+is a simple sketch of the key
+information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require.
+```
 
+
+![CSS color](https://www.market8.net/hs-fs/hub/23553/file-637542208-jpg/images/website_wireframes-wireframe2.jpg?t=1519917980967)
 
 
 
