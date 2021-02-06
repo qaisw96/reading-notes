@@ -1,8 +1,4 @@
-# Stages of building a small website page 
-- Write the content that you want to appear by using **HTML** Tags (add heading, paragraph, image, audio, and others )
-- Styling & Layout yout web page by using **CSS**, that includes :
-  - *Presentation* ( color, font, background-color, background-images, and others )
-  - *Layout* control where the different elements are positioned on the screen
+# HTML & CSS 
 
 ## Why HTML ?
 To make web pages on the internet viewable.
@@ -45,6 +41,29 @@ its surrounding text
 you can give Information About Your Page by **meta** tag 
 
  ![meta tag](https://tnphost.com/support/wp-content/uploads/2016/09/meta-tag-explained.gif)
+
+## HTML5 LAYOUT
+```
+*In HTML4 we was using **div** tag to as a container to layout our page and as indicater for CSS*
+*But now with HTML5 we can use new helpful elements instead of dev tag, like **header**,**section**, **article**. **footer**
+```
+
+![CSS color](https://s3.amazonaws.com/viking_education/web_development/web_app_eng/html5_sectioning_high_level.jpg)
+
+
+# Stages of building a small website page 
+
+1. identify  the target audience & Thier Behaviour, maybe answer these can help :
+    - Who is the Site For?
+    - Why People Visit YOUR Website
+    - What Your Visitors are Trying to Achieve
+    - What Information Your Visitors Need
+    - How Often People Will Visit Your Site
+2. Write the content that you want to appear by using **HTML** Tags (add heading, paragraph, image, audio, and others )
+3. Styling & Layout yout web page by using **CSS**, that includes :
+    - *Presentation* ( color, font, background-color, background-images, and others )
+    - *Layout* control where the different elements are positioned on the screen
+
 
 
 
