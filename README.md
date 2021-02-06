@@ -1,5 +1,5 @@
 
-# *Growth Mind* :purple_heart:	
+# *Growth Mind* 	
 
 *I consider it the space or enviromenment i can insert in it anything i want and it will grow up and develop*
 
@@ -13,18 +13,18 @@
 
 
 
-## *Code 201 Reading Notes* :innocent:	
+## *Code 201 Reading Notes* 
 
 Reading | Link | Reading | Link
 ------- | --------- | -------- | ----------
- Class01 | [click-here](https://qaisw96.github.io/reading-notes/read1) | Class09 | [click-here](https://qaisw96.github.io/reading-notes/read1)
- Class02 | [click-here](https://qaisw96.github.io/reading-notes/read2) | Class10 | [click-here](https://qaisw96.github.io/reading-notes/read2)
- Class03 | [click-here](https://qaisw96.github.io/reading-notes/read3) | Class11 | [click-here](https://qaisw96.github.io/reading-notes/read3)
- Class04 | [click-here](https://qaisw96.github.io/reading-notes/read4) | Class12 | [click-here](https://qaisw96.github.io/reading-notes/read4)
- Class05 | [click-here](https://qaisw96.github.io/reading-notes/read5) | Class13 | [click-here](https://qaisw96.github.io/reading-notes/read5)
- Class06 | [click-here](https://qaisw96.github.io/reading-notes/read5) | Class14 | [click-here](https://qaisw96.github.io/reading-notes/read5)
- Class07 | [click-here](https://qaisw96.github.io/reading-notes/read5) | Class15 | [click-here](https://qaisw96.github.io/reading-notes/read5)
- Class08 | [click-here](https://qaisw96.github.io/reading-notes/read5) | .......
+ Class01 | [click-here](#) | Class09 | [click-here](#)
+ Class02 | [click-here](#) | Class10 | [click-here](#)
+ Class03 | [click-here](#) | Class11 | [click-here](#)
+ Class04 | [click-here](#) | Class12 | [click-here](#)
+ Class05 | [click-here](#) | Class13 | [click-here](#)
+ Class06 | [click-here](#) | Class14 | [click-here](#)
+ Class07 | [click-here](#) | Class15 | [click-here](#)
+ Class08 | [click-here](#) | .......
 
 
 
