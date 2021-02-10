@@ -30,7 +30,7 @@ logos that use flat colors are better saved as GIFs
 
 ```
 
-# HTML color 
+# CSS color 
 
 ## Every color on a computer screen is created by mixing amounts of red, green, and blue
 
@@ -42,8 +42,28 @@ hsl ========> hsl(0,0%,78%)
 hsla ========> hsla(0,100%,100%,0.5)
 ```
 
-# HTML Text 
 
+![colors](https://colorswall.com/images/palettes/primer-css-framework-color-system-2387-colorswall.png)
+# CSS Text 
+
+```
+Specifying Typefaces =======> font-family
+Size of Type =======> font-size
+For example :
+
+font-family: Arial, Verdana, sans-serif;
+font-size: 12px;}
+```
+
+
+
+## Text-decoration
+
+>> + none ----> This removes any decoration already applied to the text.
+>> + underline ----> This adds a line underneath thetext.
+>> + overline ----> This adds a line over the top of the text.
+>> + line-through ----> his adds a line through words.
+>> + blink ----> This animates the text to make it flash on and off (however this is generally frowned upon, as it is considered rather annoying).
 
 
 
