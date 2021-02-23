@@ -2,7 +2,7 @@
 
 The transform property comes in two different settings, two-dimensional and three-dimensional 
  
- 1. 2D Rotate 
+ ## 1. 2D Rotate 
  The rotate value provides the ability to rotate an element from 0 to 360 degrees.
  
  ```
@@ -18,7 +18,7 @@ The transform property comes in two different settings, two-dimensional and thre
  
  ![](http://www.coolwebmasters.com/uploads/posts/2010-02/1265196287_css-01.png)
  
- 2. 2D Scale 
+ ## 2. 2D Scale 
   allows you to change the appeared size of an element. The default scale value is 1, therefore any value between .99 and .01 makes an element appear smaller while any value greater than or equal to 1.01 makes an element appear larger.
   
   ```         
@@ -31,7 +31,7 @@ The transform property comes in two different settings, two-dimensional and thre
 
 ```
 
-3. 2D Translate
+## 3. 2D Translate
 with the scale value, to set both the x and y axis values at once, use the translate value and declare the x axis value first, followed by a comma, and then the y axis value.
 ```
 .box-1 {
@@ -47,7 +47,7 @@ with the scale value, to set both the x and y axis values at once, use the trans
 
 ```
 
-4. 2D Skew
+## 4. 2D Skew
 is used to distort elements on the horizontal axis, vertical axis, or both
 
 ```
