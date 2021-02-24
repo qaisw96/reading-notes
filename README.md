@@ -10,7 +10,7 @@ Reading | Link | Reading | Link
  Class04 | [click-here](https://qaisw96.github.io/reading-notes/class-04) | Class12 | [click-here](https://qaisw96.github.io/reading-notes/class-12)
  Class05 | [click-here](https://qaisw96.github.io/reading-notes/class-05) | Class13 | [click-here](https://qaisw96.github.io/reading-notes/class-13)
  Class06 | [click-here](https://qaisw96.github.io/reading-notes/class-06) | Class14 | [click-here](https://qaisw96.github.io/reading-notes/class-14)
- Class07 | [click-here](https://qaisw96.github.io/reading-notes/class-07) | Class15 | [click-here](#)
+ Class07 | [click-here](https://qaisw96.github.io/reading-notes/class-07) | Class15 | [click-here](https://qaisw96.github.io/reading-notes/class-15)
  Class08 | [click-here](https://qaisw96.github.io/reading-notes/class-08) | .......
 
 
