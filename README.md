@@ -1,4 +1,22 @@
 
+Here is where I can keep track of my observations and questions from the reading assignments throughout ```Advanced Software Development in Full-Stack JavaScript``` course.
+
+## *Code 301 Reading Notes*
+
+Reading | Link | Reading | Link
+------- | --------- | -------- | ----------
+ Class01 | [click-here](#) | Class09 | [click-here](#)
+ Class02 | [click-here](#) | Class10 | [click-here](#)
+ Class03 | [click-here](#) | Class11 | [click-here](#)
+ Class04 | [click-here](#) | Class12 | [click-here](#)
+ Class05 | [click-here](#) | Class13 | [click-here](#)
+ Class06 | [click-here](#) | Class14 | [click-here](#)
+ Class07 | [click-here](#) | Class15 | [click-here](#)
+ Class08 | [click-here](#) | .......
+
+
+
+
 
 ## *Code 201 Reading Notes* 
 
