@@ -5,7 +5,7 @@ Here is where I can keep track of my observations and questions from the reading
 
 Reading | Link | Reading | Link
 ------- | --------- | -------- | ----------
- Class01 | [click-here](#) | Class09 | [click-here](#)
+ Class01 | [click-here](https://qaisw96.github.io/reading-notes/day-01) | Class09 | [click-here](#)
  Class02 | [click-here](#) | Class10 | [click-here](#)
  Class03 | [click-here](#) | Class11 | [click-here](#)
  Class04 | [click-here](#) | Class12 | [click-here](#)
