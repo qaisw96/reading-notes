@@ -66,4 +66,13 @@ There are a couple different ways to use media queries :
 
 
 
+# Float
 
+There are four valid values for the float property :
++ Left 
++ Right
++ None (the default) ensures the element will not float
++ Inherit which will assume the float value from that elements parent element.
+
+
+![](https://i1.wp.com/css-tricks.com/wp-content/csstricks-uploads/print-layout.png?resize=540%2C270&ssl=1)
