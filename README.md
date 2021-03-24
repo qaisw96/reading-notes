@@ -8,7 +8,7 @@ Reading | Link | Reading | Link
  Class01 | [click-here](https://qaisw96.github.io/reading-notes/day-01) | Class09 | [click-here](#)
  Class02 | [click-here](https://qaisw96.github.io/reading-notes/day-02) | Class10 | [click-here](#)
  Class03 | [click-here](https://qaisw96.github.io/reading-notes/day-03) | Class11 | [click-here](#)
- Class04 | [click-here](#) | Class12 | [click-here](#)
+ Class04 | [click-here](https://qaisw96.github.io/reading-notes/day-04) | Class12 | [click-here](#)
  Class05 | [click-here](#) | Class13 | [click-here](#)
  Class06 | [click-here](#) | Class14 | [click-here](#)
  Class07 | [click-here](#) | Class15 | [click-here](#)
