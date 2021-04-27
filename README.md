@@ -1,7 +1,36 @@
 
 Here is where I can keep track of my observations and questions from the reading assignments throughout ```Advanced Software Development in Full-Stack JavaScript``` course.
 
-## *Code 301 Reading Notes*
+
+## *Code 401 - Advanced Software Development*
+
+Reading | Link | Reading | Link
+------- | --------- | -------- | ----------
+ Class01 | [click-here]() | Class21 | [click-here]()
+ Class02 | [click-here]() | Class22 | [click-here]()
+ Class03 | [click-here]() | Class23 | [click-here]()
+ Class04 | [click-here]() | Class24 | [click-here]()
+ Class05 | [click-here]() | Class25 | [click-here]()
+ Class06 | [click-here]() | Class26 | [click-here]()
+ Class07 | [click-here]() | Class27 | [click-here]()
+ Class08 | [click-here]() | Class28 | [click-here]()
+ Class09 | [click-here]() | Class29 | [click-here]()
+ Class10 | [click-here]() | Class30 | [click-here]()
+ Class11 | [click-here]() | Class31 | [click-here]()
+ Class12 | [click-here]() | Class32 | [click-here]()
+ Class13 | [click-here]() | Class33 | [click-here]()
+ Class14 | [click-here]() | Class34 | [click-here]()
+ Class15 | [click-here]() | Class35 | [click-here]()
+ Class16 | [click-here]() | Class36 | [click-here]()
+ Class17 | [click-here]() | Class37 | [click-here]()
+ Class18 | [click-here]() | Class38 | [click-here]()
+ Class19 | [click-here]() | Class39 | [click-here]()
+ Class20 | [click-here]() | Class40 | [click-here]()
+
+## ---------------------------------------------------------------------------------
+
+
+## *Code 301 - Intermediate Software Development*
 
 Reading | Link | Reading | Link
 ------- | --------- | -------- | ----------
@@ -15,10 +44,11 @@ Reading | Link | Reading | Link
  Class08 | [click-here](https://qaisw96.github.io/reading-notes/day-08) | .......
 
 
+## ---------------------------------------------------------------------------------
 
 
 
-## *Code 201 Reading Notes* 
+## *Code 201 - Foundations of Software Development* 
 
 Reading | Link | Reading | Link
 ------- | --------- | -------- | ----------
@@ -35,10 +65,11 @@ Reading | Link | Reading | Link
 
 
 
+## ---------------------------------------------------------------------------------
 
 
 
-## *Code 102 Reding Notes* 
+## *Code 102 - Intro to Software Development* 
 
 Reading | Link 
 ------- | ---------
