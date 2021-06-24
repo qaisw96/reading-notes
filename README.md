@@ -15,7 +15,7 @@ Reading | Link | Reading | Link
  Class07 | [click-here](https://qaisw96.github.io/reading-notes/401-class07) | Class32 | [click-here](https://qaisw96.github.io/reading-notes/401-class32)
  Class08 | [click-here](https://qaisw96.github.io/reading-notes/401-class08) | Class33 | [click-here](https://qaisw96.github.io/reading-notes/401-class33)
  Class09 | [click-here](https://qaisw96.github.io/reading-notes/401-class09) | Class34 | [click-here](https://qaisw96.github.io/reading-notes/401-class34)
- Class10 | [click-here](https://qaisw96.github.io/reading-notes/401-class10) | Class35 | [click-here]()
+ Class10 | [click-here](https://qaisw96.github.io/reading-notes/401-class10) | Class35 | [click-here](https://qaisw96.github.io/reading-notes/401-class35)
  Class11 | [click-here](https://qaisw96.github.io/reading-notes/401-class11) | Class36 | [click-here]()
  Class12 | [click-here](https://qaisw96.github.io/reading-notes/401-class12) | Class37 | [click-here]()
  Class13 | [click-here](https://qaisw96.github.io/reading-notes/401-class13) | Class38 | [click-here]()
